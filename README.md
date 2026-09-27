@@ -59,11 +59,24 @@ The interactive dashboard includes:
 - `Dashboard/` – Dashboard preview
 - `Documentation/` – Supporting report
 
-## 👤 Author
+## How to Use
 
-**Yashu Mittal**  
-MBA – Finance | ABV-IIITM, Gwalior
+1. Download or clone this repository.
+2. Open the Excel workbook in `Excel_Model/` to review the financial statements, ratio analysis, comparative analysis, and trend analysis.
+3. Open the `.pbix` file in `PowerBI/` using **Microsoft Power BI Desktop**.
+4. Use the **Financial Year slicer** to select a specific financial year.
+5. Explore the KPI cards, profitability, financial health, cash flow, working capital, capital structure, and 5-year scorecard.
+6. If required, refresh the Power BI model after updating the source Excel data.
 
-**Skills:** Financial Analysis · Financial Modelling · Excel · Power BI · DAX · Ratio Analysis · Working Capital Analysis
+## 📚 Data Sources
+
+The financial data used in this project was compiled from publicly available financial information of **AWL Agri Business Limited (formerly Adani Wilmar Limited)**, including:
+
+- Company Annual Reports
+- Consolidated Financial Statements
+
+The Excel workbook contains the compiled financial statements and calculations used for the analysis.
+
+> **Disclaimer:** This project is created for academic and portfolio purposes. The analysis should not be considered investment advice. Users should refer to the company's official filings for the latest and authoritative financial information.
 
 > **Disclaimer:** This project is created for academic and portfolio purposes. It is not investment advice.
