@@ -68,7 +68,7 @@ The interactive dashboard includes:
 5. Explore the KPI cards, profitability, financial health, cash flow, working capital, capital structure, and 5-year scorecard.
 6. If required, refresh the Power BI model after updating the source Excel data.
 
-## 📚 Data Sources
+## Data Sources
 
 The financial data used in this project was compiled from publicly available financial information of **AWL Agri Business Limited (formerly Adani Wilmar Limited)**, including:
 
@@ -78,5 +78,3 @@ The financial data used in this project was compiled from publicly available fin
 The Excel workbook contains the compiled financial statements and calculations used for the analysis.
 
 > **Disclaimer:** This project is created for academic and portfolio purposes. The analysis should not be considered investment advice. Users should refer to the company's official filings for the latest and authoritative financial information.
-
-> **Disclaimer:** This project is created for academic and portfolio purposes. It is not investment advice.
