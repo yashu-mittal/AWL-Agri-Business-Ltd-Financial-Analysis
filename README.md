@@ -32,7 +32,7 @@ The interactive dashboard includes:
 - Capital Structure
 - Financial Scorecard
 
-## ools Used
+## Tools Used
 
 - **Microsoft Excel** – Financial modelling & analysis
 - **Power BI** – Dashboard & visualization
